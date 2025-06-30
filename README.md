@@ -185,7 +185,8 @@ The following apps are NWC wallet services with access to the APIs of the wallet
  - [The Bullish Shop](https://www.thebullish.shop/) - Bitcoin fashion and merchandise store
  - [Zapper](https://zapper.fun/) - Bulk zap payments, to any Nostr event
  - [Zapstore](https://zapstore.dev) - Open, permissionless app store with zaps
-
+ - [Pkgzap](https://pkgzap.albylabs.com/) - Support and earn sats from npm packages using the Lightning funding field
+ 
 
 ## Hardware
  - [Wesatoshis](https://www.wesatoshis.com/) - Hardware wallet with access to RSK DeFi and NWC integration
